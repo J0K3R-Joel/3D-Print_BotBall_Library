@@ -16,9 +16,11 @@ In this file you will see how we used every part (all files inside a directory c
 
 ## Table
 
-| Part Name              | Usage                | Overall-Usage       |
-| ---------------------- | -------------------- | ------------------- |
-| grabber_three_sections | Bottles, (Poms)      | grab and release    |
-| fry_thrower            | Fries                | collect and release |
-| shovel_two_spaces      | Burger, Taco, Hotdog | collect             |
+| Part Name                | Usage                | Overall-Usage       |
+| ------------------------ | -------------------- | ------------------- |
+| grabber_three_sections   | Bottles, (Poms)      | grab and release    |
+| fry_thrower              | Fries                | collect and release |
+| shovel_two_spaces        | Burger, Taco, Hotdog | collect             |
+| bottle_neck_holder_three | Bottles              | grab and release    |
+| grabber_spike_plates     | Poms                 | grab and release    |
 
