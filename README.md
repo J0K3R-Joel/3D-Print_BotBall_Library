@@ -14,11 +14,11 @@ This library will show you every 3D print, that we (my organisation) made along 
 
 All files can be found in [./Prints](./Prints).
 
-The structure of [./Prints](./Prints) looks like this:
+The structure of [./Prints](./Prints) looks like this:
 
 ![Folder Structure](.\media\base_folder_structure.png)
 
-
+If you want to look at the game from every year (for example if you want to know why some teams designed the same 3D prints or what might have been the purpose of a print, then visit https://ecer.pria.at/documents/)
 
 Feel free to send me your 3D prints, so I can add them here as well. Every 3D print is welcomed.
 
@@ -55,8 +55,6 @@ The teams I belonged to was ((2024 -> no 3D prints were allowed) + 2025 + 2026):
 
 1. 625-NotImplementedException
 2. 625-LinzerTechnikum
-
-
 
 ---
 
