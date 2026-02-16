@@ -16,7 +16,7 @@ All files can be found in [./Prints](./Prints).
 
 The structure of [./Prints](./Prints) looks like this:
 
-![Folder Structure](.\media\base_folder_structure.png)
+![Folder Structure](./media/base_folder_structure.png)
 
 If you want to look at the game from every year (for example if you want to know why some teams designed the same 3D prints or what might have been the purpose of a print, then visit https://ecer.pria.at/documents/)
 
