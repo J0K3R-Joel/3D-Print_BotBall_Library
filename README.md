@@ -34,7 +34,7 @@ You can also check out my self-made library on [GitHub](https://github.com/J0K3R
 git clone https://github.com/J0K3R-Joel/3D-Print_BotBall_Library.git
 ```
 
-2. Get into [./prints](./prints) 
+2. Get into [./Prints](./Prints) 
 3. Open your desired .stl files in your slicer and enjoy the objects
 
 ---
