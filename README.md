@@ -2,13 +2,23 @@
 **Author:** Joel Kalkusch  
 **Email:** [kalkusch.joel@gmail.com](mailto:kalkusch.joel@gmail.com)  
 **Nationality**: Austrian (Österreich)  
-**Date of Creation**: 2026-02-02
+**Date of Creation**: 2026-02-02   
+**Teamname**: NotImplementedException
+
 
 ---
 
 ## Introduction
 
-This library will show you every 3D print, that we (my organisation) made along our BotBall-journey. It should help you to give you some ideas about how we previously designed parts to complete all sorts of tasks. 
+This library will show you every 3D print, that we (my organisation) made along our BotBall-journey, also what other teams (seperated by foldernames) did. It should help you to give you some ideas about how we previously designed parts to complete all sorts of tasks. 
+
+All files can be found in [./Prints](./Prints).
+
+The structure of [./Prints](./Prints) looks like this:
+
+![Folder Structure](.\media\base_folder_structure.png)
+
+
 
 Feel free to send me your 3D prints, so I can add them here as well. Every 3D print is welcomed.
 
@@ -35,6 +45,23 @@ If you slice the .stl files in your slicer, you will receive a .gcode file. This
 
 ---
 
+## Disclaimer
+
+Since I copied most of the files from the team homebase, you can thank the organizers for providing those files. 
+
+I also want to apologize if I guessed a team name wrong and therefore the team / file name are wrong.
+
+The teams I belonged to was ((2024 -> no 3D prints were allowed) + 2025 + 2026):
+
+1. 625-NotImplementedException
+2. 625-LinzerTechnikum
+
+
+
+---
+
 ## License
 
-This project is open for personal or educational use. For commercial use or redistribution, please contact the author directly. For more information, get to [./LICENSE](./LICENSE)
+**This section applies exclusively to my team, as this is my personal library. For all files other than the printable (.stl) files that I created specifically for my team, the original BotBall license applies, not my own!**
+
+This project is open for personal or educational use. For commercial use or redistribution, please contact the author directly. For more information, get to [./LICENSE](./LICENSE).
