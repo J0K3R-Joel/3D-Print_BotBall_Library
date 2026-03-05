@@ -54,7 +54,8 @@ I also want to apologize if I guessed a team name wrong and therefore the team /
 The teams I belonged to was ((2024 -> no 3D prints were allowed) + 2025 + 2026):
 
 1. 625-NotImplementedException
-2. 625-LinzerTechnikum
+2. 0625-NotImplementedException
+3. 625-LinzerTechnikum
 
 ---
 
